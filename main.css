@@ -26,8 +26,9 @@ li {
 
 a {
   text-align: center;
-  color: whitesmoke;
-  text-decoration: none;
+  color: rgb(19, 47, 211);
+  text-decoration: underline;
+
 }
 
 #container {
